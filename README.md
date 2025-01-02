@@ -10,6 +10,11 @@ Um conversor simples de arquivos OFX para Excel utilizando Python. Ideal para or
 - **Fácil de usar**: Execute diretamente do terminal com uma interface simples de linha de comando.
 
 ---
+### 📚 Tecnologias Utilizadas
+
+- **[ofxparse](https://github.com/jseutter/ofxparse)**: Para processar arquivos OFX.
+- **[pandas](https://pandas.pydata.org/)**: Para manipulação de dados em tabelas.
+- **[openpyxl](https://openpyxl.readthedocs.io/)**: Para criar e manipular arquivos Excel.
 
 ## 🚀 Como Usar
 
@@ -19,3 +24,5 @@ Certifique-se de ter o Python 3.7 ou superior instalado em sua máquina. Além d
 
 ```bash
 pip install -r requirements.txt
+
+
