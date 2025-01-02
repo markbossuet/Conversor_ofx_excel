@@ -7,8 +7,7 @@ Um conversor simples de arquivos OFX para Excel utilizando Python. Ideal para or
 - **Leitura de arquivos OFX**: Suporte para extrair dados financeiros como datas, descrições e valores.
 - **Exportação para Excel**: Converte os dados extraídos para o formato `.xlsx`, facilitando o uso em planilhas.
 - **Configuração customizável**: Permite personalizar os campos exportados e processar múltiplos arquivos OFX simultaneamente.
-- **Fácil de usar**: Execute diretamente do terminal com uma interface simples de linha de comando.
-- **Compara lançamentos entre arquivos OFX e .xlsx.
+- **Fácil de usar**: Execute diretamente do terminal com uma interface simples de linha de comando
 
 ---
 ### 📚 Tecnologias Utilizadas
